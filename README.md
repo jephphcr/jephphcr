@@ -2,7 +2,7 @@
 ## 👋 Hi! Welcome to my Github profile.
 ### My name is Jefferson and my nickname is "Jeff"!
 
-### Ferramentas e Tecnologias
+### Tools e Technologies
 
 
 
